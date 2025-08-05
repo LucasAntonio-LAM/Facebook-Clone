@@ -1,2 +1,2 @@
 # Facebook-Clone
-Clone site do facebook
+Clone site do facebook usando tailwindcss
